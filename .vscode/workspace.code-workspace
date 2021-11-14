@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"makefile.launchConfigurations": [
+			{
+				"cwd": "/home/cgspartz/352project",
+				"binaryPath": "/home/cgspartz/352project/352",
+				"binaryArgs": []
+			},
+			{
+				"cwd": "/home/cgspartz/352project",
+				"binaryPath": "/home/cgspartz/352project/shell352",
+				"binaryArgs": []
+			}
+		],
+		"files.associations": {
+			"commands.h": "c"
+		}
+	}
+}

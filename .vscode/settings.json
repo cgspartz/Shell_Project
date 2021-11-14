@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/cgspartz/352project",
+            "binaryPath": "/home/cgspartz/352project/352",
+            "binaryArgs": []
+        }
+    ]
+}
